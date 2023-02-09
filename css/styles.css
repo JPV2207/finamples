@@ -1,5 +1,16 @@
 .heading {
   color: white;
   background-color: green;
-  margin: 0;
+  padding: 20px;
 }
+
+.middle-section {
+  background-color: green;
+}
+
+.foot-section {
+  background-color: green;
+}
+ body {
+   margin: 0;
+ }
